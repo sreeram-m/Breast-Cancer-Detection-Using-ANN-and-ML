@@ -6,11 +6,11 @@ In recent decades Artificial neural network and ML strategies have been broadly 
 ## Design
 * ANN
 
-![ANN](image.png)
+![ANN](images/image.png)
 
 * ML
 
-![ML](image-1.png)
+![ML](images/image-1.png)
 
 ## Modules
 
@@ -23,10 +23,10 @@ In recent decades Artificial neural network and ML strategies have been broadly 
 
 ## WorkFlow
 * ANN
-![ANN](image-2.png)
+![ANN](images/image-2.png)
 
 * ML
-![ML](image-3.png)
+![ML](images/image-3.png)
 
 ## Methodologies
 * Feed forward neural network
@@ -45,4 +45,4 @@ I have used the Breast Cancer Wisconsin (Original) dataset from UCI machine lear
 
 ## Results
 
-![results](image-4.png)
+![results](images/image-4.png)

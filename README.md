@@ -22,10 +22,13 @@ In recent decades Artificial neural network and ML strategies have been broadly 
 * Results
 
 ## WorkFlow
+
 * ANN
+
 ![ANN](images/image-2.png)
 
 * ML
+
 ![ML](images/image-3.png)
 
 ## Methodologies

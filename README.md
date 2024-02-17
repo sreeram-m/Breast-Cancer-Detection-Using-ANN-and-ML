@@ -5,9 +5,11 @@ In recent decades Artificial neural network and ML strategies have been broadly 
 
 ## Design
 * ANN
+
 ![ANN](image.png)
 
 * ML
+
 ![ML](image-1.png)
 
 ## Modules
@@ -39,13 +41,8 @@ In recent decades Artificial neural network and ML strategies have been broadly 
 
 ## Dataset
 I have used the Breast Cancer Wisconsin (Original) dataset from UCI machine learning repository is a classification dataset, which records the measurements for breast cancer cases. There are two classes, benign and malignant. This dataset has dimensionality 9. The malignant class of this dataset is considered as outliers, while points in the benign class are considered inliers.
-[WDBC][https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29]
+[WDBC](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 ## Results
 
-ALGORITHMS	TRAINING SET	TESTING SET
-FEED FORWARD NETWORK	0.9780	0.9649
-RANDOM FOREST	0.94	0.96
-SVC	0.857	0.92
-LINEAR SVC	0.90	0.90
-Nu SVC	0.92	0.92
+![results](image-4.png)
